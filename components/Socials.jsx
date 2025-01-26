@@ -4,12 +4,21 @@ import {
   RiYoutubeLine,
   RiInstagramLine,
   RiFacebookLine,
-  RiDribbbleLine,
   RiGithubLine,
-  RiPinterestLine,
+  RiLinkedinBoxFill,
 } from "react-icons/ri";
 
 export const socialData = [
+  {
+    name: "Github",
+    link: "https://github.com/08-ayush",
+    Icon: RiGithubLine,
+  },
+  {
+    name: "Github",
+    link: "https://www.linkedin.com/in/aayush-chauhan-9b3b76207/",
+    Icon: RiLinkedinBoxFill,
+  },
   {
     name: "YouTube",
     link: "https://youtube.com",
@@ -25,21 +34,8 @@ export const socialData = [
     link: "https://facebook.com",
     Icon: RiFacebookLine,
   },
-  {
-    name: "Dribbble",
-    link: "https://dribbble.com",
-    Icon: RiDribbbleLine,
-  },
-  {
-    name: "Pinterest",
-    link: "https://pinterest.com",
-    Icon: RiPinterestLine,
-  },
-  {
-    name: "Github",
-    link: "https://github.com/sanidhyy/modern-portfolio",
-    Icon: RiGithubLine,
-  },
+  
+  
 ];
 
 const Socials = () => {

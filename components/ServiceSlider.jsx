@@ -14,31 +14,23 @@ import "swiper/css/free-mode";
 import "swiper/css/pagination";
 
 const serviceData = [
+  
   {
-    Icon: RxCrop,
-    title: "Branding",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    Icon: RxDesktop,
+    title: "Development",
+    description: "Full-stack developer building scalable, efficient, and user-friendly applications with seamless API, database, and front-end integration.",
   },
   {
     Icon: RxPencil2,
     title: "Design",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    description: "Designing visually stunning, responsive, and user-centric interfaces with expertise in UI/UX and interactive, animated websites for enhanced engagement.",
   },
   {
-    Icon: RxDesktop,
-    title: "Development",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    Icon: RxCrop,
+    title: "Branding",
+    description: "Creating strong brand identities with logos, visuals, and assets aligned to your vision, ensuring consistent branding and enhanced market presence.",
   },
-  {
-    Icon: RxReader,
-    title: "Copywriting",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-  },
-  {
-    Icon: RxRocket,
-    title: "SEO",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-  },
+  
 ];
 
 const ServiceSlider = () => {

@@ -14,23 +14,23 @@ const workSlides = {
       images: [
         {
           title: "title",
-          path: "/thumb1.jpg",
-          link: "http://example.com",
+          path: "/thumb10.jpg",
+          link: "https://celebratewithinsta.netlify.app/",
         },
         {
           title: "title",
-          path: "/thumb2.jpg",
-          link: "http://example.com",
+          path: "/project11.jpg",
+          link: "https://github.com/08-ayush/TicketManagementSystem",
         },
         {
           title: "title",
-          path: "/thumb3.jpg",
-          link: "http://example.com",
+          path: "/project3.png",
+          link: "https://e-commerce-tau-smoky.vercel.app/",
         },
         {
           title: "title",
-          path: "/thumb4.jpg",
-          link: "http://example.com",
+          path: "/project4.png",
+          link: "https://whether-app-phi.vercel.app/",
         },
       ],
     },
@@ -38,24 +38,24 @@ const workSlides = {
       images: [
         {
           title: "title",
-          path: "/thumb4.jpg",
-          link: "http://example.com",
+          path: "/project5.png",
+          link: "https://github.com/08-ayush/movie_review_Application",
         },
         {
           title: "title",
-          path: "/thumb1.jpg",
-          link: "http://example.com",
+          path: "/project6.png",
+          link: "https://netflix-clone-cswq.vercel.app/",
         },
-        {
-          title: "title",
-          path: "/thumb2.jpg",
-          link: "http://example.com",
-        },
-        {
-          title: "title",
-          path: "/thumb3.jpg",
-          link: "http://example.com",
-        },
+        // {
+        //   title: "title",
+        //   path: "/thumb2.jpg",
+        //   link: "http://example.com",
+        // },
+        // {
+        //   title: "title",
+        //   path: "/thumb3.jpg",
+        //   link: "http://example.com",
+        // },
       ],
     },
   ],

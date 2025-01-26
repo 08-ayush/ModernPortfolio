@@ -31,8 +31,7 @@ const Services = () => {
               exit="hidden"
               className="mb-4 max-w-[400px] mx-auto lg:mx-0"
             >
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur
-              tempora eligendi, quisquam tempore sint reiciendis.
+             I specialize in delivering comprehensive solutions that bring your ideas to life. Whether you're looking to build a robust web application, create captivating designs, or establish a powerful brand presence, I've got you covered.
             </motion.p>
           </div>
 
@@ -42,7 +41,7 @@ const Services = () => {
             initial="hidden"
             animate="show"
             exit="hidden"
-            className="w-full xl:max-w-[65%]"
+            className="w-full xl:max-w-[75%]"
           >
             <ServiceSlider />
           </motion.div>
