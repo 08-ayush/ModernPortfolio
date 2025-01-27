@@ -1,7 +1,7 @@
 [build]
-publish = "out"
-command = "npm run build"
+  publish = ".next"
+  command = "npm run build"
 
 [[plugins]]
-package = "@netlify/plugin-nextjs"
-enabled = false
+  package = "@netlify/plugin-nextjs"
+  enabled = true
