@@ -41,6 +41,7 @@
     "export": "next export"
   },
   "dependencies": {
+    "@netlify/plugin-nextjs": "^5.9.4",
     "@next/font": "^13.4.4",
     "framer-motion": "^10.12.16",
     "next": "^15.1.6",
